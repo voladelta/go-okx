@@ -1,7 +1,7 @@
 package private
 
 import (
-	"github.com/gorilla/websocket"
+	"github.com/fasthttp/websocket"
 	"github.com/iaping/go-okx/common"
 	"github.com/iaping/go-okx/ws"
 )
